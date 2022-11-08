@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Stan(Wei-Shan) Weng</h1>
 <h3 align="center">A hardworking student from NTUEE, Taiwan.</h3>
 
-- 🔭 I’m currently working on **undergraduate research in MPAC lab**
+- 🔭 I’m currently working on **undergraduate research in MPAC lab.**
 
-- 🌱 I’m currently learning **C#, Computer Vision**
+- 🌱 I’m currently learning **C# and Computer Vision.**
 
 - 🤝 I’m looking for help with **optics knowledge.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/stanthemaker](https://github.com/stanthemaker)
 
-- 💬 Ask me about **PyTorch, React**
+- 💬 Ask me about **PyTorch, React.**
 
 - 📫 How to reach me **stanwong178@gmail.com**
 
-- ⚡ Fun fact **I am an easy going person, and I really enjoyed working together as a team.**
+- ⚡ Fun fact **I am an easy going person, and I really enjoy working together as a team.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
