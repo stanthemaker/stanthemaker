@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **undergraduate research in MPAC lab.**
 
-- 🌱 I’m currently learning **C# and Computer Vision.**
+- 🌱 I’m currently learning **Computer Vision and Optics**
 
 - 🤝 I’m looking for help with **optics knowledge.**
 
