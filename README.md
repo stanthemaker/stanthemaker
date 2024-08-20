@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Stan(Wei-Shan) Weng</h1>
 <h3 align="center">A hardworking student from NTUEE, Taiwan.</h3>
 
-- 🔭 I’m currently working on **undergraduate research in MPAC lab.**
+- 🔭 I’m currently a **Caltech SURF student**
 
-- 🌱 I’m currently learning **Computer Vision and Optics**
-
-- 🤝 I’m looking for help with **optics knowledge.**
+- 🌱 I’m interested in **Computational Imaging**
 
 - 👨‍💻 All of my projects are available at [https://github.com/stanthemaker](https://github.com/stanthemaker)
 
-- 💬 Ask me about **PyTorch, React.**
+- 💬 Ask me about **Ray Optics, Machine Learning**
 
-- 📫 How to reach me **stanwong178@gmail.com**
+- 📫 How to reach me **wweng@caltech.edu**
 
-- ⚡ Fun fact **I am an easy going person, and I really enjoy working together as a team.**
+- ⚡ Fun fact **You can actually die laughing. Typically due to intense laughter causing a heart attack or suffocation.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
