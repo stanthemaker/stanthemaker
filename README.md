@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Stan(Wei-Shan) Weng</h1>
-<h3 align="center">A hardworking student from NTUEE, Taiwan.</h3>
 
-- 🔭 I’m currently a **Caltech SURF student**
+- 🔭 I’m currently a **UC Berkeley 1st year PhD student**
 
 - 🌱 I’m interested in **Computational Imaging**
 
 - 👨‍💻 All of my projects are available at [https://github.com/stanthemaker](https://github.com/stanthemaker)
 
-- 💬 Ask me about **Ray Optics, Machine Learning**
-
-- 📫 How to reach me **wweng@caltech.edu**
+- 📫 How to reach me **weishan_weng@berkeley.edu**
 
 - ⚡ Fun fact **You can actually die laughing. Typically due to intense laughter causing a heart attack or suffocation.**
 
